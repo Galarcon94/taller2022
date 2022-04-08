@@ -9,4 +9,6 @@ Para poder contribuir en este proyecto es necesario seguir los siguientes pasos,
 # Participantes en este proyecto
 
 - Gabriel Alarcon Carranza <galarcon9430@outlook.com>
+- Francisco Mendez Hernandez <jklmopkrst@gmail.com>
 - Pedro Reyes Medina   <dark1473@gmail.com>
+
