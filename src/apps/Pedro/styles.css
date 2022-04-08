@@ -1,0 +1,76 @@
+html {
+  background-size: cover;
+}
+
+#cuerpo {
+  border: black;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 10px;
+  display: grid;
+}
+
+#Banner > img {
+  width: 100%;
+  height: 200px;
+}
+
+#main {
+  display: flex;
+}
+
+#lateral {
+  border-right: black;
+  border-right-style: solid;
+  width: 20%;
+  background-color: #c7b175;
+}
+
+#centro {
+  display: grid;
+  width: 80%;
+  background-color: #dbd2b8;
+}
+
+.entrada {
+  display: flex;
+  padding: 10px;
+  border-bottom-style: solid;
+}
+
+.imgentrada {
+  max-width: 250px;
+  max-height: 250px;
+}
+
+.imgentrada img {
+  width: 250px;
+  height: 250px;
+}
+
+#centro div p {
+  padding-left: 10px;
+}
+
+#menu tbody tr td {
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#menu tbody tr {
+  background-color: #d0a5f0;
+}
+#menu tbody tr :hover {
+  background-color: #af5bf0;
+}
+
+#menu tbody tr a {
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+}
+
+#menu {
+  width: 100%;
+}
