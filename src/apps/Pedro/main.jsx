@@ -2,7 +2,7 @@ import "./styles.css";
 export default function AppPedro() {
   return (
     <div>
-      <h2>Pedro Reyes</h2>
+      <h2>Pagina de pedro Reyes y Erick</h2>
       <div id="cuerpo">
         <Banner />
         <Cuerpo />
