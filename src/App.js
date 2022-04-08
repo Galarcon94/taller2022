@@ -1,6 +1,7 @@
 import "./styles.css";
 import Componente from "./apps/Francisco/main";
 import GabrielApp from "./apps/Gabriel/main";
+import Componente2 from "./apps/plantilla/Pedro/main";
 
 export default function App() {
   return (
@@ -9,6 +10,7 @@ export default function App() {
       <h2>Todos nuestros participantes :)</h2>
       <GabrielApp />
       <Componente />
+      <Componente2 />
     </div>
   );
 }
