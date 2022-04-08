@@ -20,3 +20,4 @@ Para poder contribuir en este proyecto es necesario seguir los siguientes pasos,
 - Ana Karen Díaz Gómez <anak_dgomez@hotmail.com>
 - Erick David Arce Leyva
   <itz230501erick@gmail.com>
+-Victor Manuel Naranjo Giles <vnaranjogiles@gmail.com>
