@@ -3,6 +3,7 @@ import Componente from "./apps/Francisco/main";
 import AppKaren from "./apps/Karen/main";
 import GabrielApp from "./apps/Gabriel/main";
 import Componente2 from "./apps/plantilla/Pedro/main";
+import Erik from "./apps/Erick/main";
 
 export default function App() {
   return (
@@ -13,6 +14,7 @@ export default function App() {
       <Componente />
       <AppKaren />
       <Componente2 />
+      <Erik />
     </div>
   );
 }
