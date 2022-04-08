@@ -18,3 +18,5 @@ Para poder contribuir en este proyecto es necesario seguir los siguientes pasos,
 - Francisco Mendez Hernandez <jklmopkrst@gmail.com>
 - Pedro Reyes Medina <dark1473@gmail.com>
 - Ana Karen Díaz Gómez <anak_dgomez@hotmail.com>
+- Erick David Arce Leyva
+  <itz230501erick@gmail.com>
