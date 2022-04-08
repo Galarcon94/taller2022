@@ -5,7 +5,8 @@ Bienvenido, gracias por tu trabajo.
 Para poder contribuir en este proyecto es necesario seguir los siguientes pasos, toma en cuenta que este proyecto está desarrollado con code sandbox, así que para su desarrollo es necesario que trabajes en esta plataforma para evitar conflictos:
 
 1.- desde codesandbos hacer un Fork
-[forksand box](<https://github.com/Galarcon94/taller2022/raw/main/Captura%20de%20Pantalla%202022-04-08%20a%20la(s)%2010.01.00.png>)
+
+![forksand box](<https://github.com/Galarcon94/taller2022/raw/main/Captura%20de%20Pantalla%202022-04-08%20a%20la(s)%2010.01.00.png>)
 
 2.- link sandbox
 
