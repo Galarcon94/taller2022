@@ -8,4 +8,5 @@ Para poder contribuir en este proyecto es necesario seguir los siguientes pasos,
 
 # Participantes en este proyecto
 
-- Gabriel Alarcon Carranza <galarcon9430@outlook.com>
+-nombre <correo>
+-Gabriel Alarcon Carranza <galarcon9430@outlook.com>
